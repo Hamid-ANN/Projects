@@ -6,7 +6,6 @@ This repository  contains the solution of projects which have been suggested in 
 
 
 
-
 MongoDB_Nobel_Prize_API
 
 
